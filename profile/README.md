@@ -9,3 +9,5 @@ For current open-source development, explore
 [NDS](https://github.com/NDDev-Technocracy-OpenNetwork-NDS/nddev-device-sync).
 
 [Visit NDDev](https://nddev.ai)
+
+[Contact](mailto:danil@nddev.ai)
