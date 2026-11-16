@@ -10,3 +10,7 @@ organization avatar unless the owner explicitly requests a change. Use short
 task branches
 and merge-commit PRs into `main`; profile maintenance does not require a `dev`
 branch.
+
+Run `just check` before a commit and `just verify` for the full profile check.
+These check command formatting; the shared CI workflow owns workflow validation
+and security checks. This profile has no product test or build recipe.
